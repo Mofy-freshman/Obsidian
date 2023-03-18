@@ -17,3 +17,10 @@ git push origin main
 1.取消缩进
 2.复制插件和主题文件到.obsidian文件夹下
 
+## 3 clone到本地仓库
+[(272条消息) 如何使用git从github拉取自己的私有仓库(Token方式、本地秘钥方式)_Night-Breeze晚风的博客-CSDN博客](https://blog.csdn.net/qq_45491549/article/details/128825216?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-3-128825216-blog-124340158.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-3-128825216-blog-124340158.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=6)
+
+参考上述连接
+* token
+ `git clone https://Mofy-freshman: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@ghproxy.com/https://github.com/Mofy-freshman/Obsidian.git`
+* ssh key

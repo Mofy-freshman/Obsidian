@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59c32f649aa8cd7b",
+        "id": "178335ecec7b461c",
         "type": "tabs",
         "children": [
           {
-            "id": "5000b1f51d5d1dea",
+            "id": "7493ffd973c2c886",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 tips/Obsidian使用.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 tips/Obsidian使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 tips/Obsidian使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0 tips/Obsidian使用.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5000b1f51d5d1dea",
+  "active": "7493ffd973c2c886",
   "lastOpenFiles": [
+    "0 tips/Obsidian使用.md",
     "AutoEncoder/CDAE+Pyramid.md",
     "0 tips/pic",
-    "0 tips/Obsidian使用.md",
     "0 tips/pic/c913f58ccf614d4f8a71bae9351fd0b.png",
     "0 tips",
     "AutoEncoder"
