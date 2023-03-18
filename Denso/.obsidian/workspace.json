@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutoEncoder/CDAE+Pyramid.md",
+                "file": "0 tips/Obsidian使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d9b520202a5955e5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AutoEncoder/CDAE+Pyramid.md",
+                "file": "0 tips/Obsidian使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AutoEncoder/CDAE+Pyramid.md",
+                "file": "0 tips/Obsidian使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AutoEncoder/CDAE+Pyramid.md"
+                "file": "0 tips/Obsidian使用.md"
               }
             }
           }
@@ -146,9 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b793e525a581f736",
+  "active": "5000b1f51d5d1dea",
   "lastOpenFiles": [
     "AutoEncoder/CDAE+Pyramid.md",
+    "0 tips/pic",
+    "0 tips/Obsidian使用.md",
+    "0 tips/pic/c913f58ccf614d4f8a71bae9351fd0b.png",
+    "0 tips",
     "AutoEncoder"
   ]
 }

@@ -1,1 +1,6 @@
-{}
+{
+  "readableLineLength": false,
+  "foldIndent": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
+}
