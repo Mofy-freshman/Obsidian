@@ -14,7 +14,8 @@ git push origin main
 ```
 
 ## 2 基本配置
-1.取消缩进
+1.取消缩进  
+
 2.复制插件和主题文件到.obsidian文件夹下
 
 ## 3 clone到本地仓库
