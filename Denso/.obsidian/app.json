@@ -1,6 +1,9 @@
 {
-  "readableLineLength": false,
-  "foldIndent": false,
+  "readableLineLength": true,
+  "foldIndent": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./attachments",
+  "showLineNumber": false,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }

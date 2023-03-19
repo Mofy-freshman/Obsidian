@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "178335ecec7b461c",
+        "id": "72458cf0640be74a",
         "type": "tabs",
         "children": [
           {
-            "id": "7493ffd973c2c886",
+            "id": "73838a9b8f612023",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 DailyNote/2023-03-19.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "672",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 DailyNote/2023-03-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 DailyNote/2023-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 DailyNote/2023-03-19.md"
+              }
             }
           }
         ]
@@ -138,12 +147,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7493ffd973c2c886",
+  "active": "73838a9b8f612023",
   "lastOpenFiles": [
     "0 tips/Obsidian使用.md",
+    "1 DailyNote/2023-03-19.md",
+    "1 DailyNote/attachments/Pasted image 20230319134617.png",
+    "1 DailyNote/attachments/Pasted image 20230319133554.png",
+    "2023-03-19.md",
+    "1 DailyNote/attachments",
+    "1 DailyNote",
     "AutoEncoder/CDAE+Pyramid.md",
-    "0 tips/pic",
-    "0 tips/pic/c913f58ccf614d4f8a71bae9351fd0b.png",
+    "AutoEncoder/attachments",
+    "0 tips/attachments/c913f58ccf614d4f8a71bae9351fd0b.png",
+    "0 tips/attachments/Pasted image 20230319094409.png",
+    "0 tips/attachments",
     "0 tips",
     "AutoEncoder"
   ]
