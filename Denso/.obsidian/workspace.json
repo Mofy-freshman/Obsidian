@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 DailyNote/2023-03-19.md",
+                "file": "0 tips/Obsidian使用.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "672",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 DailyNote/2023-03-19.md",
+                "file": "0 tips/Obsidian使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 DailyNote/2023-03-19.md",
+                "file": "0 tips/Obsidian使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 DailyNote/2023-03-19.md"
+                "file": "0 tips/Obsidian使用.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "73838a9b8f612023",
   "lastOpenFiles": [
-    "0 tips/Obsidian使用.md",
     "1 DailyNote/2023-03-19.md",
+    "0 tips/Obsidian使用.md",
     "1 DailyNote/attachments/Pasted image 20230319134617.png",
     "1 DailyNote/attachments/Pasted image 20230319133554.png",
     "2023-03-19.md",

@@ -13,7 +13,11 @@ git push origin main
 ```
 
 ## 2 基本配置
+<<<<<<< HEAD
 1.缩减栏宽  
+=======
+1.取消缩进  
+>>>>>>> 5a7e801ad577daba7e84f7ae0690ed4c844e98fd
 2.复制插件和主题文件到.obsidian文件夹下
 
 ## 3 clone到本地仓库
@@ -23,6 +27,7 @@ git push origin main
 * **token**  
  `git clone https://Mofy-freshman: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@ghproxy.com/https://github.com/Mofy-freshman/Obsidian.git`
 * ssh key
+<<<<<<< HEAD
 
 ## 4 设置图床
 [【Obsidian绝配！】为你的OB搭建专属图床，保姆级教程！ - 少数派 (sspai.com)](https://sspai.com/post/75765)
@@ -30,3 +35,5 @@ git push origin main
 ## 5 Obsidian语法使用
 [Obsidian笔记软件【新手使用攻略】 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/541850158)
 ![[attachments/Pasted image 20230319094409.png|175]]
+=======
+>>>>>>> 5a7e801ad577daba7e84f7ae0690ed4c844e98fd
